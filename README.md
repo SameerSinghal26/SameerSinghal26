@@ -58,7 +58,7 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
 </p>
 
 <hr>
-
+<p align="center"> <img src="https://holopin.me/sameersinghal26"> </p>
 
 <p align="center">
     <img  alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerSinghal26&theme=radical">
