@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersinghal26&" alt="sameersinghal26" /></p>
 
 ### 📈MY Github Contibution
-![Sanke_animation](https://github.com/SameerSinghal26/SameerSinghal26/blob/output/github-contibution-grid-snake.svg)
+![snake animation](https://github.com/SameerSinghal26/SameerSinghal26/blob/output/github-contribution-grid-snake2.svg)
