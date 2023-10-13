@@ -6,7 +6,7 @@
 <h3 align="center">Embarking on a Journey: Learning DSA and Development from India and Fueled by a Passion for Problem Solving: A Journey into Competitive Programming and Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameersinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="sameersinghal26" /> </p>
-
+<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sameers73068018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameers73068018" height="30" width="40" /></a>
@@ -21,12 +21,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameersinghal26&show_icons=true&locale=en&layout=compact" alt="sameersinghal26" /></p>
+<p align="center"> <img src="https://holopin.me/sameersinghal26"/> </p>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersinghal26&show_icons=true&locale=en" alt="sameersinghal26" /></p>
+
+<p align ="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=sameersinghal26&show_icons=true&locale=en" alt="sameersinghal26" /></p>
+
+
+</br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameersinghal26&" alt="sameersinghal26" /></p>
 
-### 📈MY Github Contibution
-![snake animation](https://github.com/SameerSinghal26/SameerSinghal26/blob/output/github-contribution-grid-snake2.svg)
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameersinghal26&show_icons=true&locale=en&layout=compact" alt="sameersinghal26" /></p>
+
+</br>
+</br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SameerSinghal26&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
