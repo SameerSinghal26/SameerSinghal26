@@ -78,14 +78,14 @@
 
 <h2 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/sameers73068018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameers73068018"  width="100" /></a>
-<a href="https://linkedin.com/in/sameer-singhal-0151b4252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-singhal-0151b4252" width="100" /></a>
-<a href="https://instagram.com/xxsober._.samxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxsober._.samxx" width="100" /></a>
-<a href="https://www.codechef.com/users/sameersinghal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sameersinghal" width="100" /></a>
-<a href="https://www.hackerrank.com/gobindsinghal87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gobindsinghal87" width="100" /></a>
-<a href="https://codeforces.com/profile/sameer26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameer26" width="100" /></a>
-<a href="https://www.leetcode.com/sameersinghal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameersinghal26" width="100" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gobindsin26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gobindsin26" width="100" /></a>
+<a href="https://twitter.com/sameers73068018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameers73068018"  width="70" /></a>
+<a href="https://linkedin.com/in/sameer-singhal-0151b4252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-singhal-0151b4252" width="70" /></a>
+<a href="https://instagram.com/xxsober._.samxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxsober._.samxx" width="70" /></a>
+<a href="https://www.codechef.com/users/sameersinghal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sameersinghal" width="70" /></a>
+<a href="https://www.hackerrank.com/gobindsinghal87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gobindsinghal87" width="70" /></a>
+<a href="https://codeforces.com/profile/sameer26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameer26" width="70" /></a>
+<a href="https://www.leetcode.com/sameersinghal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameersinghal26" width="70" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gobindsin26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gobindsin26" width="70" /></a>
 </p>
 
 <h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="40" /> Languages and Tools:</h2>
